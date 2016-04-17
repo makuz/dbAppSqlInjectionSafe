@@ -1,0 +1,6 @@
+C:\Users\makuz\Desktop\asp webforms\dbAppSqlInjectionSafe\dbApp\dbApp\bin\dbApp.dll.config
+C:\Users\makuz\Desktop\asp webforms\dbAppSqlInjectionSafe\dbApp\dbApp\bin\dbApp.dll
+C:\Users\makuz\Desktop\asp webforms\dbAppSqlInjectionSafe\dbApp\dbApp\bin\dbApp.pdb
+C:\Users\makuz\Desktop\asp webforms\dbAppSqlInjectionSafe\dbApp\dbApp\obj\Debug\dbAppSqlInjectionSafe.csprojResolveAssemblyReference.cache
+C:\Users\makuz\Desktop\asp webforms\dbAppSqlInjectionSafe\dbApp\dbApp\obj\Debug\dbApp.dll
+C:\Users\makuz\Desktop\asp webforms\dbAppSqlInjectionSafe\dbApp\dbApp\obj\Debug\dbApp.pdb
